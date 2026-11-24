@@ -1,0 +1,11 @@
+{
+  "device": "cuda",
+  "dry_run": false,
+  "steps": 64000,
+  "total_time_minutes": 97.49,
+  "best_test_error_pct": 7.76,
+  "last_test_error_pct": 7.76,
+  "reference_error_pct": 6.97,
+  "best_delta_percentage_points": 0.79,
+  "last_delta_percentage_points": 0.79
+}
